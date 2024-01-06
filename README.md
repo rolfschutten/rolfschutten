@@ -40,7 +40,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" width="100" height="100">
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="NextJS" width="100" height="100">
   <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="Nginx" width="100" height="100">
-  <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright" width="100" height="100">
+  <img src="https://img.stackshare.io/service/11955/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png" alt="Playwright" width="100" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="100" height="100">
   <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="Terraform" width="100" height="100">
   <!-- Add more logos as needed -->
