@@ -26,5 +26,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" alt="Azure" width="100" height="100">
   <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="Azure DevOps" width="100" height="100">
   <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-1.png" alt="GitHub" width="100" height="100">
+  <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="Terraform" width="100" height="100">
   <!-- Add more logos as needed -->
 </div>
