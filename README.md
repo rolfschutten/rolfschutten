@@ -27,12 +27,13 @@
 
 ---
 
-## I work with: 🧑‍💻
+## I ❤️ Working With: 🧑‍💻
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-content: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" alt="Azure" width="100" height="100">
   <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="Azure DevOps" width="100" height="100">
   <img src="https://avatars.githubusercontent.com/u/59082378?s=200&v=4" alt="Chaos Mesh" width="100" height="100">
   <img src="https://www.svgrepo.com/show/353659/docker-icon.svg" alt="Docker" width="100" height="100">
+  <img src="https://www.vectorlogo.zone/logos/docusaurus/docusaurus-official.svg" alt="Docusaurus" width="100" height="100">
   <img src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4" alt="FluxCD" width="100" height="100">
   <img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="GitHub" width="100" height="100">
   <img src="https://seeklogo.com/images/H/helm-logo-9208DB3EE5-seeklogo.com.png" alt="Helm" width="100" height="100">
@@ -43,5 +44,6 @@
   <img src="https://img.stackshare.io/service/11955/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png" alt="Playwright" width="100" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="100" height="100">
   <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="Terraform" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="100" height="100">
   <!-- Add more logos as needed -->
 </div>
