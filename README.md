@@ -40,7 +40,6 @@
   <img src="https://seeklogo.com/images/H/helm-logo-9208DB3EE5-seeklogo.com.png" alt="Helm" width="64" height="64">
   <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" alt="JavaScript" width="64" height="64">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" width="64" height="64">
-  <img src="https://assets.stickpng.com/images/62b31d4bb223544c209f5e86.png" alt="Kustomize" width="64" height="64">
   <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="Microsoft SQL" width="64" height="64">
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="NextJS" width="64" height="64">
   <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="Nginx" width="64" height="64">
