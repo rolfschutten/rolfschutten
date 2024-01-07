@@ -36,6 +36,7 @@
   <img src="https://www.vectorlogo.zone/logos/docusaurus/docusaurus-official.svg" alt="Docusaurus" width="64" height="64">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/2048px-Fedora_logo.svg.png" alt="Fedora" width="64" height="64">
   <img src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4" alt="FluxCD" width="64" height="64">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="64" height="64">
   <img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="GitHub" width="64" height="64">
   <img src="https://seeklogo.com/images/H/helm-logo-9208DB3EE5-seeklogo.com.png" alt="Helm" width="64" height="64">
   <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" alt="JavaScript" width="64" height="64">
