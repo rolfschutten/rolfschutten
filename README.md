@@ -29,29 +29,30 @@
 
 ## I ❤️ Working With: 🧑‍💻
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-content: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" alt="Azure" width="64" height="64">
-  <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="Azure DevOps" width="64" height="64">
-  <img src="https://avatars.githubusercontent.com/u/59082378?s=200&v=4" alt="Chaos Mesh" width="64" height="64">
-  <img src="https://www.svgrepo.com/show/353659/docker-icon.svg" alt="Docker" width="64" height="64">
-  <img src="https://www.vectorlogo.zone/logos/docusaurus/docusaurus-official.svg" alt="Docusaurus" width="64" height="64">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/2048px-Fedora_logo.svg.png" alt="Fedora" width="64" height="64">
-  <img src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4" alt="FluxCD" width="64" height="64">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="64" height="64">
-  <img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="GitHub" width="64" height="64">
-  <img src="https://seeklogo.com/images/H/helm-logo-9208DB3EE5-seeklogo.com.png" alt="Helm" width="64" height="64">
-  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" alt="JavaScript" width="64" height="64">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" width="64" height="64">
-  <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="Microsoft SQL" width="64" height="64">
-  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="NextJS" width="64" height="64">
-  <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="Nginx" width="64" height="64">
-  <img src="https://img.stackshare.io/service/11955/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png" alt="Playwright" width="64" height="64">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="64" height="64">
-  <img src="https://raw.githubusercontent.com/gist/fsackur/9e4f98aaa3ba3984407e92e62a5f63bd/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="PowerShell" width="64" height="64">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="64" height="64">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/2560px-Red_Hat_logo.svg.png" alt="Red Hat Enterprise Linux" width="64" height="64">
-  <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="Terraform" width="64" height="64">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Ubuntu" width="64" height="64">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="64" height="64">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" alt="Windows Server" width="64" height="64">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" alt="Azure" width="32" height="32">
+  <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="Azure DevOps" width="32" height="32">
+  <img src="https://avatars.githubusercontent.com/u/59082378?s=200&v=4" alt="Chaos Mesh" width="32" height="32">
+  <img src="https://www.svgrepo.com/show/353659/docker-icon.svg" alt="Docker" width="32" height="32">
+  <img src="https://www.vectorlogo.zone/logos/docusaurus/docusaurus-official.svg" alt="Docusaurus" width="32" height="32">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/2048px-Fedora_logo.svg.png" alt="Fedora" width="32" height="32">
+  <img src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4" alt="FluxCD" width="32" height="32">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="32" height="32">
+  <img src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" alt="GitHub" width="32" height="32">
+  <img src="https://seeklogo.com/images/H/helm-logo-9208DB3EE5-seeklogo.com.png" alt="Helm" width="32" height="32">
+  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" alt="JavaScript" width="32" height="32">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" width="32" height="32">
+  <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="Microsoft SQL" width="32" height="32">
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="NextJS" width="32" height="32">
+  <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="Nginx" width="32" height="32">
+  <img src="https://img.stackshare.io/service/11955/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png" alt="Playwright" width="32" height="32">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/gist/fsackur/9e4f98aaa3ba3984407e92e62a5f63bd/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="PowerShell" width="32" height="32">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="32" height="32">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/2560px-Red_Hat_logo.svg.png" alt="Red Hat Enterprise Linux" width="32" height="32">
+  <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="Terraform" width="32" height="32">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Ubuntu" width="32" height="32">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="32" height="32">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" alt="Windows Server" width="32" height="32">
+  <img src="https://store-images.s-microsoft.com/image/apps.61786.14131597032361940.38d2a067-3798-455f-934a-f69935156b3d.eb49d3ac-e311-4e6f-b89b-f1fe8db9d73b" alt="Windows Subsystem for Linux" width="32" height="32">
   <!-- Add more logos as needed -->
 </div>
